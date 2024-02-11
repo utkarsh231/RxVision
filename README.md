@@ -45,4 +45,6 @@ For users who fail to take their prescribed medications on time, the application
 - [@Akshat Namdeo](https://github.com/itsak610)
 
 
+![Logo](static/logo.jpeg)
+
 
