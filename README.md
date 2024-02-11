@@ -1,4 +1,5 @@
 # RxVision
+![Logo](static/rxvision.png)
 
 **RxVision** is here to mitigate drug underuse and overuse
 
@@ -50,8 +51,5 @@ _<p align="center">Registration Page</p>_
 - [@Raghav Rawat](https://github.com/rawatraghav)
 - [@Aneesh Seth](https://github.com/aneeshseth)
 - [@Akshat Namdeo](https://github.com/itsak610)
-
-
-![Logo](static/rxvision.png)
 
 
