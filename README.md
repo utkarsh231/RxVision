@@ -9,10 +9,8 @@ Improper drug usage is a major healthcare concerns in today's times. Patients, e
 
 ## References
 
-[Documentation](https://linktodocumentation)
-
-- Pill Image Dataset trained on GoogLeNet: [Pharmaceutical Drug Recognition](https://www.kaggle.com/datasets/gauravduttakiit/pharmaceutical-drug-recognition?select=train) The dataset features 10 different classes of Pharmaceutical Drugs. The dataset contains about 9500+ labelled images including the validation images. The classes are - Alaxan,Bactidol, Bioflu, Biogesic, DayZinc, Decolgen, Fish Oil, Kremil S, Medicol, Neozep.
-- Face Recognition trained on Keras FaceNet: [FaceNet] (https://github.com/davidsandberg/facenet)  This is a TensorFlow implementation of the face recognizer described in the paper
+- Pill Image Dataset trained on GoogLeNet [Pharmaceutical Drug Recognition](https://www.kaggle.com/datasets/gauravduttakiit/pharmaceutical-drug-recognition?select=train): The dataset features 10 different classes of Pharmaceutical Drugs. The dataset contains about 9500+ labelled images including the validation images. The classes are - Alaxan,Bactidol, Bioflu, Biogesic, DayZinc, Decolgen, Fish Oil, Kremil S, Medicol, Neozep.
+- Face Recognition trained on Keras FaceNet [FaceNet](https://github.com/davidsandberg/facenet):  This is a TensorFlow implementation of the face recognizer described in the paper
 ["FaceNet: A Unified Embedding for Face Recognition and Clustering"](http://arxiv.org/abs/1503.03832). The project also uses ideas from the paper ["Deep Face Recognition"](http://www.robots.ox.ac.uk/~vgg/publications/2015/Parkhi15/parkhi15.pdf) from the [Visual Geometry Group](http://www.robots.ox.ac.uk/~vgg/) at Oxford.
 
 
