@@ -37,6 +37,11 @@ Users can use their device's camera to scan the medication they intend to take. 
 For users who fail to take their prescribed medications on time, the application will employ automated backend processes to monitor compliance. At midnight each day, the system will trigger an email notification to users who missed their medication doses, reminding them to adhere to their prescribed regimen.
 
 
+## Screenshots
+
+![Landing Page](static/Landing_Page.png)
+
+
 ## Authors
 
 - [@Utkarsh Prakash Srivastava](https://www.github.com/utkarsh231)
