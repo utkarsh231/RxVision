@@ -17,23 +17,23 @@ Improper drug usage is a major healthcare concerns in today's times. Patients, e
 ## Features
 
 
-- Facial Recognition Integration:
+- **Facial Recognition Integration**:
 Utilizing Face ID detection powered by Facenet, the application will allow users to authenticate their identity securely. This feature ensures that only authorized individuals can access the medication management functionalities of the app.
 
 
-- Medication Database Integration:
+- **Medication Database Integration**:
 We will integrate a comprehensive database of medications, including generic and brand-name drugs, leveraging machine learning models such as GoogLeNet. This database will facilitate real-time verification of medication availability and compatibility with user prescriptions.
 
 
-- User Medication Profile:
+- **User Medication Profile**:
 Users can create personalized medication profiles within the app, inputting details of their prescribed medications, dosages, and schedules. This profile serves as a reference point for the application to cross-reference with the medication database during verification.
 
 
-- Facial Recognition Medication Verification:
+- **Facial Recognition Medication Verification**:
 Users can use their device's camera to scan the medication they intend to take. The application will employ facial recognition technology to verify the scanned medication against the user's prescription profile. If a match is found, the app will update the medication intake log accordingly.
 
 
-- Automated Compliance Monitoring:
+- **Automated Compliance Monitoring**:
 For users who fail to take their prescribed medications on time, the application will employ automated backend processes to monitor compliance. At midnight each day, the system will trigger an email notification to users who missed their medication doses, reminding them to adhere to their prescribed regimen.
 
 
