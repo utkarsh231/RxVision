@@ -40,10 +40,10 @@ For users who fail to take their prescribed medications on time, the application
 ## Screenshots
 
 ![Landing Page](static/Landing_Page.png)
-*Home Page*
+<p align="center">*Home Page*</p>
 
 ![Registration Page](static/registration.png)
-*Registration Page*
+<p align="center">*Registration Page*</p>
 
 ## Authors
 
