@@ -1,5 +1,5 @@
 
-# RxVision
+<p align="center"> # RxVision </p>
 
 **RxVision** is here to mitigate drug underuse and overuse
 
