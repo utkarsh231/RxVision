@@ -7,72 +7,36 @@ Improper drug usage is a major healthcare concerns in today's times. Patients, e
 
 
 
-## Run Locally
-
-Clone the project
-
-```bash
-  git clone ####
-```
-
-Go to the project directory
-
-```bash
-  cd 
-```
-
-Install dependencies
-
-```bash
-  npm install 
-```
-
-Start the server
-
-```bash
-  npm run start
-```
-
-
-## Deployment
-
-To deploy this project run
-
-```bash
-  npm run deploy
-```
-
-
-## Documentation
+## References
 
 [Documentation](https://linktodocumentation)
 
-- Pill Image Dataset trained on GoogLeNet: For the developement of deep learning model for the project, we worked on [Pharmaceutical Drug Recognition](https://www.kaggle.com/datasets/gauravduttakiit/pharmaceutical-drug-recognition?select=train) dataset. The dataset features 10 different classes of Pharmaceutical Drugs. The dataset contains about 9500+ labelled images including the validation images. The classes are - Alaxan,Bactidol, Bioflu, Biogesic, DayZinc, Decolgen, Fish Oil, Kremil S, Medicol, Neozep.
-- Face Recognition trained on FaceNet.
+- Pill Image Dataset trained on GoogLeNet: [Pharmaceutical Drug Recognition](https://www.kaggle.com/datasets/gauravduttakiit/pharmaceutical-drug-recognition?select=train) The dataset features 10 different classes of Pharmaceutical Drugs. The dataset contains about 9500+ labelled images including the validation images. The classes are - Alaxan,Bactidol, Bioflu, Biogesic, DayZinc, Decolgen, Fish Oil, Kremil S, Medicol, Neozep.
+- Face Recognition trained on Keras FaceNet: [FaceNet] (https://github.com/davidsandberg/facenet)  This is a TensorFlow implementation of the face recognizer described in the paper
+["FaceNet: A Unified Embedding for Face Recognition and Clustering"](http://arxiv.org/abs/1503.03832). The project also uses ideas from the paper ["Deep Face Recognition"](http://www.robots.ox.ac.uk/~vgg/publications/2015/Parkhi15/parkhi15.pdf) from the [Visual Geometry Group](http://www.robots.ox.ac.uk/~vgg/) at Oxford.
 
 
 ## Features
 
 
-- Register User
-User takes a face snapshot which gets stored as an embedding in database. Next, user takes picture of their prescribed medicine one by one along with their dosage frequency, from which the identifier and frequency is registered in the patient's record in database.
-
-- Take Pill
-User takes a face snapshot and an embedding is created, which is compared against the entire embedding database of users to retrieve the record of the user in front of the camera. Next, the user shows the medicine in the camera and takes it. The pill detector updates the count of doses of that pill taken by the patient.
+- Facial Recognition Integration:
+Utilizing Face ID detection powered by Facenet, the application will allow users to authenticate their identity securely. This feature ensures that only authorized individuals can access the medication management functionalities of the app.
 
 
+- Medication Database Integration:
+We will integrate a comprehensive database of medications, including generic and brand-name drugs, leveraging machine learning models such as GoogLeNet. This database will facilitate real-time verification of medication availability and compatibility with user prescriptions.
 
 
+- User Medication Profile:
+Users can create personalized medication profiles within the app, inputting details of their prescribed medications, dosages, and schedules. This profile serves as a reference point for the application to cross-reference with the medication database during verification.
 
-## Usage/Examples
 
-```javascript
-import Component from 'my-project'
+- Facial Recognition Medication Verification:
+Users can use their device's camera to scan the medication they intend to take. The application will employ facial recognition technology to verify the scanned medication against the user's prescription profile. If a match is found, the app will update the medication intake log accordingly.
 
-function App() {
-  return <Component />
-}
-```
+
+- Automated Compliance Monitoring:
+For users who fail to take their prescribed medications on time, the application will employ automated backend processes to monitor compliance. At midnight each day, the system will trigger an email notification to users who missed their medication doses, reminding them to adhere to their prescribed regimen.
 
 
 ## Authors
