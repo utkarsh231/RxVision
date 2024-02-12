@@ -45,6 +45,10 @@ _<p align="center">Home Page</p>_
 ![Registration Page](static/registration.png)
 _<p align="center">Registration Page</p>_
 
+# Demo
+
+YouTube Demo can be viewed ![here](https://www.youtube.com/watch?v=9b_ttyoGSGo).
+
 ## Authors
 
 - [@Utkarsh Prakash Srivastava](https://www.github.com/utkarsh231)
