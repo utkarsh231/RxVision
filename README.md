@@ -47,7 +47,7 @@ _<p align="center">Registration Page</p>_
 
 # Demo
 
-YouTube Demo can be viewed ![here](https://www.youtube.com/watch?v=9b_ttyoGSGo).
+YouTube Demo can be viewed [here](https://www.youtube.com/watch?v=9b_ttyoGSGo).
 
 ## Authors
 
