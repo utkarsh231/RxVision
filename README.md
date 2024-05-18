@@ -48,6 +48,8 @@ _<p align="center">Registration Page</p>_
 # Demo
 
 YouTube Demo can be viewed [here](https://www.youtube.com/watch?v=9b_ttyoGSGo).
+Presentation [link](https://www.canva.com/design/DAF8dkPm7Ko/r9jaoZ0VuLJh9m_xbDyuCQ/view?utm_content=DAF8dkPm7Ko&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+
 
 ## Authors
 
